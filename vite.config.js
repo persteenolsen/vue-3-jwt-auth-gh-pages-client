@@ -7,7 +7,7 @@ import vue from '@vitejs/plugin-vue';
 export default defineConfig({
 
     // GH Pages - Needed for access ti assets - css -js 
-    base: "/vue-3-jwt-auth-gh-pages-clinet/",
+    base: "/vue-3-jwt-auth-gh-pages-client/",
     plugins: [vue()],
     resolve: {
         alias: {
