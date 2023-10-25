@@ -21,7 +21,7 @@ function onSubmit(values, { setErrors }) {
 <template>
     <div>
 	
-	   <b>Last Updated:</b> 25-10-2023<br /><br />
+	   <b>Last Updated</b> 25-10-2023<br /><br />
         <div class="alert alert-info">
            Username: test<br />
            Password: test
