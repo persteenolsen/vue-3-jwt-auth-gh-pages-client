@@ -4,5 +4,6 @@
 - Using Pinia for store 
 - Hosted GH Pages
 - Vite for Dev and build tool instead of Webpack
+- ESLint
 
 Node Version 14.17.3 was used for Dev + Build for this Vue Web Application
