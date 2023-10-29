@@ -21,7 +21,7 @@ const authStore = useAuthStore();
 		 
               <div class="navbar-nav">
 			
-				<RouterLink to="/about" class="nav-item nav-link">About this Vue App</RouterLink>	
+				<RouterLink to="/about" class="nav-item nav-link">About this Vue 3 App</RouterLink>	
 				
                 <RouterLink to="/login" class="nav-item nav-link">Login</RouterLink>
                 				
