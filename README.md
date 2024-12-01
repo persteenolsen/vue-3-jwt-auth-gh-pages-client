@@ -7,4 +7,4 @@
 - ESLint
 - Last updated: 01-12-2024
 
-Node Version 14.17.3 was used for Dev + Build for this Vue Web Application
+Node Version 20 was used for Dev + Build for this Vue Web Application
