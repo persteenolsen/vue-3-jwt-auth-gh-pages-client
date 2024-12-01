@@ -10,7 +10,7 @@
    This Vue 3 Client which is hosted at GitHub Pages works together with a secure ASP.NET Core 2.2 Web API at Azure App Service doing JWT Authentication 
    <br/> <br/>
    
-   <b>Last Updated</b>
+   <b>Last Updated:</b>
    <ul>
     <li>01-12-2024</li>
    </ul>
