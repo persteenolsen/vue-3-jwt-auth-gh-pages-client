@@ -12,7 +12,7 @@
    
    <b>Last Updated</b>
    <ul>
-    <li>01-12-2024</li>
+    <li>09-01-2025</li>
    </ul>
 
    <b>Main functionality</b>
