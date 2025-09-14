@@ -5,6 +5,6 @@
 - Hosted GH Pages
 - Vite for Dev and build tool instead of Webpack
 - ESLint
-- Last updated: 06-06-2025
+- Last updated: 14-09-2025
 
 Node Version 20 was used for Dev + Build for this Vue Web Application
